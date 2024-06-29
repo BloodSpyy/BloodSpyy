@@ -1,8 +1,5 @@
 ### Hi there my name is Gleb.
-
-- 🔭 I’m currently working on LibaryREST
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Backend Developers
+- 🌱 I’m currently learning Android dev
 - 😄 Pronouns: He
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
